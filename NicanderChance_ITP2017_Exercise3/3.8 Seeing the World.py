@@ -1,0 +1,12 @@
+country = ['UK','Europe','Australia','Japan','Korea']
+print(country)
+country.sort()
+print(country)
+country.reverse()
+print(country)
+country.reverse()
+print(country)
+country.sort()
+print(country)
+country.reverse()
+print(country)
